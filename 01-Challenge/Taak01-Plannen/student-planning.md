@@ -12,15 +12,15 @@
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Planning    | Planning maken                                 | 00:30 u             | klaar  |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | open   |
+| ...         | Styling van elementen bepalen                  | 00:30 u             | open   | 
+| Realiseren  | Bestanden aanmaken                             | 00:05 u             | open   |       
+| ...         | opdracht maken                                 | 02:30 u             | open   |       
+| Testen      | Applicatie testen                              | 00:10 u             | open   |       
+| ...         | gevonden issues opschrijven                    | 00:15 u             | open   |       
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:10 u             | open   |       
+| ...         | problemen oplossen                             | 00:20 u             | open   |
+| Presenteren | persoon door portfolio laten kijken            | 00:20 u             | open   |       
+| ...         | nieuwe issues en feedback opschrijven          |                     | open   |       
+| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | open   |       
