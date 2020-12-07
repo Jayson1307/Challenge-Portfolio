@@ -22,5 +22,5 @@
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:10 u             | open   |       
 | ...         | problemen oplossen                             | 00:20 u             | open   |
 | Presenteren | persoon door portfolio laten kijken            | 00:20 u             | open   |       
-| ...         | nieuwe issues en feedback opschrijven          |                     | open   |       
+| ...         | nieuwe issues en feedback opschrijven          | 00:10                    | open   |       
 | Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | open   |       
