@@ -17,5 +17,8 @@ body{
     margin-top: 60px;
 }
 .opvulling1{
-    
+    display: block;
+    position: fixed;
+    right: 50px;
+    bottom: 10px;
 }
