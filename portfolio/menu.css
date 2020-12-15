@@ -4,20 +4,26 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:lightgray;
-    border: 1px black ;
-    width: 50%;
-    height: 50px;
-    margin-left: 25% ;
-    justify-content: space-evenly;
+    border: 1px black solid ;
+    width: 20%;
+    height: 45px;
+    margin-left: 40% ;
+    justify-content: space-between;
     display: flex;
-    position: sticky;
+    margin-top: 70px;
+    
   }
   
+  a{
+    display: block;
+    
+  }
+
   li {
       display: inline;
     float: left;
-    justify-content: space-evenly;
-    border-right: 1px black ;
+    justify-content: center;
+    
   }
   
   li a {
@@ -25,7 +31,7 @@ ul {
     align-content: center;
     color: black;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 20px;
     text-decoration: none;
   }
   li a:hover {
