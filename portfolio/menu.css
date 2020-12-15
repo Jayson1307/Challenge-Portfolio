@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:lightgray;
+    border: 1px black ;
+    width: 50%;
+    height: 50px;
+    margin-left: 25% ;
+    justify-content: space-evenly;
+    display: flex;
+    position: sticky;
+  }
+  
+  li {
+      display: inline;
+    float: left;
+    justify-content: space-evenly;
+    border-right: 1px black ;
+  }
+  
+  li a {
+    display: block;
+    align-content: center;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:lightpink;
+  }
+  .active {
+    background-color: lightpink;
+  }
+  
+  
