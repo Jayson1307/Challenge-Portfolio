@@ -29,19 +29,27 @@ body{
     margin: 10px;
     padding: 5px;
     width: 30%;
-    margin-left: 200px;
-    margin-top: 60px;
+    display: block;
+    position: fixed;
+    right: 200px;
+    top: 310px;
 }
 .onderwerp2{
     display: block;
     position: fixed;
-    right: 200px;
+    right: 260px;
     top: 200px;
 
 }
 .plaatje1{
     display: block;
     position: fixed;
-    right: 200px;
+    right: 250px;
     top: 310px;
+}
+.plaatje2{
+    display: block;
+    position: fixed;
+    right: 400px;
+    top: 315px;
 }
