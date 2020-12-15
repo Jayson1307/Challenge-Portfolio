@@ -53,3 +53,20 @@ body{
     right: 400px;
     top: 315px;
 }
+.textvak5{
+    background-color: lightgrey;
+    border:solid black 1px;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 5px;
+    width: 30%;
+    display: block;
+    margin-left: 35%;
+    margin-top: 80px;
+}
+.onderwerp5{
+    display: block;
+    margin-left: 48%;
+    margin-top: 80px;
+
+}
