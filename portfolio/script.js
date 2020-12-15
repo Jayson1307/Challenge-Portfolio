@@ -1,4 +1,4 @@
-var naam = prompt("wat is uw naam?");
+var naam = prompt("vul je naam hier in");
     if (naam != null) {
       document.getElementById("demo").innerHTML =
       "Hallo " + naam +". En welkom bij mijn portofolio." ;
@@ -6,7 +6,7 @@ var naam = prompt("wat is uw naam?");
 
 
 
-var leeftijd = prompt("wat is uw leeftijd?");
+var leeftijd = prompt("hoe oud ben je");
 if(leeftijd >= 18){
     document.body.style.backgroundColor = "green";
 }
