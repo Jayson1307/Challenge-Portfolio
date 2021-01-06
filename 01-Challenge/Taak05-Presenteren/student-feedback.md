@@ -7,4 +7,5 @@
 
 - misschien plaatjes
 + ziet er geordend uit
-- mooie indeling
++ mooie indeling
+- javascript werk niet helemaal
