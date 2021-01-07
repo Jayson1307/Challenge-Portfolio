@@ -63,6 +63,7 @@ body{
     display: block;
     margin-left: 35%;
     margin-top: 80px;
+    
 }
 .onderwerp5{
     display: block;
@@ -70,7 +71,8 @@ body{
     margin-top: 80px;
 
 }
-#demo{
+.contact{
     display: block;
-    margin-left: 45%;
+    align-self: center;
 }
+
