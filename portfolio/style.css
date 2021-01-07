@@ -44,7 +44,7 @@ body{
 .plaatje1{
     display: block;
     position: fixed;
-    right: 250px;
+    right: 350px;
     top: 310px;
 }
 .plaatje2{
@@ -69,4 +69,8 @@ body{
     margin-left: 48%;
     margin-top: 80px;
 
+}
+#demo{
+    display: block;
+    margin-left: 45%;
 }
