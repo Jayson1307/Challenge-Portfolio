@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Jayson van Olffen`
 
-Klas    : `klascode`
+Klas    : `LCTAOO0D`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [Jayson1307.github.io/Challenge-Portfolio/portfolio
